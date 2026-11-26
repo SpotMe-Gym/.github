@@ -6,7 +6,7 @@ SpotMe is a training, nutrition and body-tracking platform. It brings together a
 
 | Repository | Description | Stack | Visibility |
 |---|---|---|---|
-| [mobile](https://github.com/SpotMe-Gym/mobile) | Offline-first mobile app for iOS and Android, with an Apple Watch companion. Workouts, nutrition, body measurements and heart rate. | TypeScript, Expo, React Native | Public |
+| [mobile](https://github.com/SpotMe-Gym/mobile) | Offline-first mobile app for iOS and Android, with an Apple Watch companion. Workouts, nutrition, body measurements and heart rate. | TypeScript, Expo, React Native | Private |
 | [website](https://github.com/SpotMe-Gym/website) | Web platform: product site, member area, professional area and admin verification. | TypeScript, Next.js, Supabase | Private |
 | [ai](https://github.com/SpotMe-Gym/ai) | AI service that analyses a member's training, nutrition and body data and answers with evidence. | Python, LangGraph | Private |
 | [SpotMe-Workspace](https://github.com/SpotMe-Gym/SpotMe-Workspace) | Shared documentation, decisions and proposals for the whole project. | Markdown | Private |
